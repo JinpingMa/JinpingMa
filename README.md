@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=JinpingMa0&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=JinpingMa&show_icons=true)
